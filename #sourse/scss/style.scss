@@ -76,7 +76,7 @@ body{
 	}
 }
 .private__image {
-	background: url('../img/block1/01.jpg') no-repeat;
+	background: url('/img/block1/01.jpg') no-repeat;
 	background-size: cover;
 	height: 100%;
 }
@@ -158,10 +158,10 @@ body{
 	height: 100%;
 }
 .products-item__image {
-	&.img-one{background-image: url('../img/private/01.jpg');}
-	&.img-two{background-image: url('../img/private/02.jpg');}
-	&.img-three{background-image: url('../img/private/03.jpg');}
-	&.img-four{background-image: url('../img/private/04.jpg');}
+	&.img-one{background-image: url('/img/private/01.jpg');}
+	&.img-two{background-image: url('/img/private/02.jpg');}
+	&.img-three{background-image: url('/img/private/03.jpg');}
+	&.img-four{background-image: url('/img/private/04.jpg');}
 	background-size: cover;
 	display: block;
 	padding-bottom: 100%;
@@ -246,7 +246,7 @@ body{
 	
 }
 .why-top__image {
-	background-image: url('../img/why/01.jpg');
+	background-image: url('/img/why/01.jpg');
 	height: 100%;
 	background-size: cover;
 }
