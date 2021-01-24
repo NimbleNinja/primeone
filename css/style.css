@@ -441,7 +441,7 @@ body.lock {
 }
 
 .private__image {
-  background: url("/img/block1/01.jpg") no-repeat;
+  background: url("../img/block1/01.jpg") no-repeat;
   background-size: cover;
   height: 100%;
 }
@@ -545,16 +545,16 @@ body.lock {
   margin: 0px 0px 25px 0px;
 }
 .products-item__image.img-one {
-  background-image: url("/img/private/01.jpg");
+  background-image: url("../img/private/01.jpg");
 }
 .products-item__image.img-two {
-  background-image: url("/img/private/02.jpg");
+  background-image: url("../img/private/02.jpg");
 }
 .products-item__image.img-three {
-  background-image: url("/img/private/03.jpg");
+  background-image: url("../img/private/03.jpg");
 }
 .products-item__image.img-four {
-  background-image: url("/img/private/04.jpg");
+  background-image: url("../img/private/04.jpg");
 }
 
 .products-item__title {
@@ -648,7 +648,7 @@ body.lock {
 }
 
 .why-top__image {
-  background-image: url("/img/why/01.jpg");
+  background-image: url("../img/why/01.jpg");
   height: 100%;
   background-size: cover;
 }
@@ -745,13 +745,13 @@ body.lock {
   padding: 0px 0px 0px 30px;
 }
 .contacts-top-body__item_one {
-  background: url("../../img/contacts/icons/01.png") left no-repeat;
+  background: url("../img/contacts/icons/01.png") left no-repeat;
 }
 .contacts-top-body__item_two {
-  background: url("../../img/contacts/icons/02.png") left no-repeat;
+  background: url("../img/contacts/icons/02.png") left no-repeat;
 }
 .contacts-top-body__item_three {
-  background: url("../../img/contacts/icons/03.png") left no-repeat;
+  background: url("../img/contacts/icons/03.png") left no-repeat;
 }
 
 .contacts-social {
